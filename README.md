@@ -1,1 +1,0 @@
-# lucien-durand-barlot.github.io
