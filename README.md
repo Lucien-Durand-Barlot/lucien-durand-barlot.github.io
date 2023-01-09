@@ -1,5 +1,1 @@
-Portfolio contenant différents projets: 
--photohraphie, 
--design graphique, 
--spécimen typographique, 
--travaux manuels.
+https://lucien-durant-barlot.github.io
